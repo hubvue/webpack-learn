@@ -11,3 +11,4 @@ webpack 的一些知识
 - [**Webpack：source-map的正确使用方式**](https://github.com/hubvue/webpack-learn/issues/6)
 - [**Webpack：多页面打包方案**](https://github.com/hubvue/webpack-learn/issues/5)
 - [**Webpack：优化终端日志**](https://github.com/hubvue/webpack-learn/issues/11)
+- [**Webpack：构建异常和中断处理**](https://github.com/hubvue/webpack-learn/issues/12)
