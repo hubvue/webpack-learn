@@ -8,3 +8,4 @@ webpack的一些知识
 - [**Webpack：tree-shaking的深入探究**](https://github.com/hubvue/webpack-learn/issues/8)
 - [**Webpack：scope hoisting原理**](https://github.com/hubvue/webpack-learn/issues/9)
 - [**Webpack：source-map的正确使用方式**](https://github.com/hubvue/webpack-learn/issues/6)
+- [**Webpack：多页面打包方案**](https://github.com/hubvue/webpack-learn/issues/5)
