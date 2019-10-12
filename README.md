@@ -1,9 +1,6 @@
 # webpack-learn
-<<<<<<< HEAD
 
 webpack 的一些知识
-=======
-webpack的一些知识
 
 - [**Webpack文件指纹的最佳使用**](https://github.com/hubvue/webpack-learn/issues/1)
 - [**Webpack压缩代码**](https://github.com/hubvue/webpack-learn/issues/2)
@@ -13,4 +10,4 @@ webpack的一些知识
 - [**Webpack：scope hoisting原理**](https://github.com/hubvue/webpack-learn/issues/9)
 - [**Webpack：source-map的正确使用方式**](https://github.com/hubvue/webpack-learn/issues/6)
 - [**Webpack：多页面打包方案**](https://github.com/hubvue/webpack-learn/issues/5)
->>>>>>> 55aca672690696a98978237bbc10d068320285d3
+- [**Webpack：优化终端日志**](https://github.com/hubvue/webpack-learn/issues/11)
