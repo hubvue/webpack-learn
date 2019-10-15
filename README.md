@@ -15,4 +15,5 @@ webpack 的一些知识
 - [**Webpack：多进程/多实例构建及压缩**](https://github.com/hubvue/webpack-learn/issues/13)
 - [**Webpack：性能分析的方式(速度、体积)**](https://github.com/hubvue/webpack-learn/issues/15)
 - [**Webpack：缩小构建目标，加速编译**](https://github.com/hubvue/webpack-learn/issues/18)
+- [**Webpack：使用缓存提高二次构建**](https://github.com/hubvue/webpack-learn/issues/14)
 - [**Webpack：终端快速定位源码**](https://github.com/hubvue/webpack-learn/issues/22)
